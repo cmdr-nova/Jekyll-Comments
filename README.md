@@ -23,4 +23,4 @@ The field entries allow a visitor to specify their name, fediverse handle, and t
 
 It's all very simple, but also very copmlicated. 
 
-If you need help with any of this, please just contact me on my instance at <a href="https://sharkey.mkultra.monster/@cmdr_nova" target="_blank">@cmdr_nova@mkultra.monster</a>.
+If you need help with any of this, please just contact me on my instance at [<a href="https://sharkey.mkultra.monster/@cmdr_nova" target="_blank">@cmdr_nova@mkultra.monster</a>](https://mkultra.monster/@cmdr_nova).
