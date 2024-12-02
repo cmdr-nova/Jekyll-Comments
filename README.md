@@ -21,6 +21,6 @@ Here's an explanation of what all this does:
 
 The field entries allow a visitor to specify their name, fediverse handle, and their comment. The fediverse handle will be automatically built into a URL that links their handle to wherever they are on the fediverse. If a user tries to input a word or phrase that you have in your forbidden words json, it won't let them post, *at all*. And since it's server-side, they can't mess with it, or force their browser to turn it off. The comments update *live*. They will appear on the page as if it's not a static site at all. It's almost like magic. The monitor script watches to see if there are *any new comments on your website at all*, and if there are, it uses gmail's API to send you an e-mail notifying you that there is a new comment, and what that comment says. This is important, just in case you're being trolled and need to clamp down.
 
-It's all very simple, but also very copmlicated. 
+It's all very simple, but also very complicated. 
 
 If you need help with any of this, please just contact me on my instance at [<a href="https://sharkey.mkultra.monster/@cmdr_nova" target="_blank">@cmdr_nova@mkultra.monster</a>](https://mkultra.monster/@cmdr_nova).
