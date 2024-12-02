@@ -5,4 +5,4 @@ Obviously, this probably needs some work. I had someone test an XSS exploit, and
 
 But, regardless, I wanted to toss this up and let others have a go at it.
 
-
+Firstly, copy post-comments.js into your assets/js folder (if that's the structure of your Jekyll blog, at least).
